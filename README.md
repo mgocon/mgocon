@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Marc Gyronne Gocon </h1>
 
-<h3 align="center">Developer | Game Developer></h3>
+<h3 align="center">Developer | Game Developer</h3>
 
 I'm **Marc**, a Computer Science graduate from University of Santo Tomas currently based in the Philippines.
 
@@ -40,13 +40,12 @@ I believe ideas prove themselves through execution - I'm happies when I'm buildi
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
-</a>
-  <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
 </p>
 
 **Fun Facts**

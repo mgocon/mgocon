@@ -6,7 +6,7 @@ I'm **Marc**, a Computer Science graduate from University of Santo Tomas current
 
 Game development is where I feel most at home — but I adapt readily to other areas of development as a project demands.
 
-I believe ideas prove themselves through execution - I'm happies when I'm building something people can actually interact with, not just discussing it.
+I believe ideas prove themselves through execution - I'm happiest when I'm building something people can actually interact with, not just discussing it.
 
 #### Languages and Tools:
 <p align="left">
